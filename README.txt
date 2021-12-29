@@ -12,7 +12,7 @@ RUNNING THE PROGRAM:
 
 Note: As of the latest update, the program works only with python 3.9.2.
 
-To run the program, simply open up your terminal, traverse to the directory the program was install, and type in:
+To run the program, simply open up your terminal, traverse to the directory the program was installed, and type in:
 
 	python CalcMain.py
 
